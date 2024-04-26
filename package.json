@@ -1,0 +1,23 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "bubble -easy gin",
+  "main": "main.js",
+  "scripts": {
+    "build": "go build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xucreat/bubble.git"
+  },
+  "keywords": [
+    "bubble"
+  ],
+  "author": "bx",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Xucreat/bubble/issues"
+  },
+  "homepage": "https://github.com/Xucreat/bubble#readme"
+}
